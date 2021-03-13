@@ -1,0 +1,6 @@
+download E:\安装包\DownloadCDDIS\2020\245\20p\BRDM00DLR_S_20202450000_01D_MN.rnx.gz
+convert  E:\安装包\DownloadCDDIS\2020\245\20p\BRDM00DLR_S_20202450000_01D_MN.20p
+download E:\安装包\DownloadCDDIS\2020\246\20p\BRDM00DLR_S_20202460000_01D_MN.rnx.gz
+convert  E:\安装包\DownloadCDDIS\2020\246\20p\BRDM00DLR_S_20202460000_01D_MN.20p
+download E:\安装包\DownloadCDDIS\products\2121\cod21212.clk.Z
+convert  E:\安装包\DownloadCDDIS\products\2121\cod21212.clk
